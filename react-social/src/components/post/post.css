@@ -19,6 +19,7 @@
 .postTopLeft {
     display: flex;
     align-items: center;
+    /* justify-content: space-around; */
 }
   
 .postProfileImg {
@@ -26,6 +27,7 @@
     height: 32px;
     border-radius: 50%;
     object-fit: cover;
+    margin-right: 10px;
 }
   
 .postUsername {
@@ -36,6 +38,7 @@
   
 .postDate{    
       font-size: 12px;
+      margin-left: 10px;
 }
 
 .postCenter{
