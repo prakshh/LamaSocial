@@ -1,8 +1,8 @@
-.profile{
+.profile {
     display: flex;
 }
 
-.profileRight{
+.profileRight {
     flex: 9;
 }
 
@@ -45,6 +45,9 @@
     font-weight: 300;
 }
 
-.profileRightBottom{
+
+.profileRightBottom {
     display: flex;
 }
+
+
